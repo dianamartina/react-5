@@ -4,7 +4,7 @@ import Footer from './Footer';
 
 function Layout(props) {
     // console.log(props);
-    const {children} = props;
+    // const {children} = props;
     return (
         <div>
             <Header/>
